@@ -4,7 +4,7 @@
         {"id":2, "nome":"ajuste2", "tipo": "acrescimo", "valor": "15" }
     ],
 
-   "fichaavaliacaofisica": [
+   "fichasavaliacaofisica": [
   {"id": 1, "cliente": { "id": 1, "nome": "Mateus Bruno" }, "funcionario": { "id": 2, "nome": "Carlos Silva" }, "datafichaavaliacao": "11/10/2025", "peso": "65", "altura": "1,80" },
   {"id": 2, "cliente": { "id": 2, "nome": "Pedro Fonseca" }, "funcionario": { "id": 1, "nome": "Ana Lima" }, "datafichaavaliacao": "06/10/2025", "peso": "90", "altura": "1,70" }
 
