@@ -5,8 +5,8 @@
     ],
 
    "fichasavaliacaofisica": [
-  {"id": 1, "cliente": { "id": 1, "nome": "Mateus Bruno" }, "funcionario": { "id": 2, "nome": "Carlos Silva" }, "datafichaavaliacao": "11/10/2025", "peso": "65", "altura": "1,80" },
-  {"id": 2, "cliente": { "id": 2, "nome": "Pedro Fonseca" }, "funcionario": { "id": 1, "nome": "Ana Lima" }, "datafichaavaliacao": "06/10/2025", "peso": "90", "altura": "1,70" }
+  {"id": 1, "cliente": { "id": 1, "nome": "Mateus Bruno" }, "funcionario": { "id": 2, "nome": "Carlos Silva" }, "datafichaavaliacao": "11/10/2025", "peso": "65", "altura": "1,80", "descricao":"descrição" },
+  {"id": 2, "cliente": { "id": 2, "nome": "Pedro Fonseca" }, "funcionario": { "id": 1, "nome": "Ana Lima" }, "datafichaavaliacao": "06/10/2025", "peso": "90", "altura": "1,70", "descricao":"descrição" }
 
    ],
 
@@ -14,6 +14,12 @@
     "formaspagamento":[
         {"id":1, "nome": "cartao", "descricao":"debito automatico"},
         {"id":2, "nome": "dinheiro", "descricao":"todo dia 5"}
+
+    ],
+
+    "exercicios":[
+        {"id":1, "nome": "tríceps banco", "descricao":"descrição do exercicio"},
+        {"id":2, "nome": "tríceps corda", "descricao":"descrição do exercicio"}
 
     ]
 
