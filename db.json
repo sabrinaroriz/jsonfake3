@@ -1,7 +1,7 @@
 {
     "ajustesfinanceiros": [
-        {"id":1, "nome":"ajuste1", "tipo": "desconto", "valor": "10", "descricao":"desconto só final de semana" },
-        {"id":2, "nome":"ajuste2", "tipo": "acrescimo", "valor": "15", "descricao":"multa por mal uso" }
+        {"id":1, "nome":"ajuste1", "tipo": "Desconto", "valor": "10", "descricao":"desconto só final de semana" },
+        {"id":2, "nome":"ajuste2", "tipo": "Acréscimo", "valor": "15", "descricao":"multa por mal uso" }
     ],
 
    "fichasavaliacaofisica": [
