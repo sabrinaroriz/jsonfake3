@@ -5,8 +5,8 @@
     ],
 
    "fichasavaliacaofisica": [
-      {"id": 1, "cliente": 1, "funcionario": 2, "datafichaavaliacao": "2025-11-10", "peso": "65", "altura": "1,80", "descricao":"descrição" },
-      {"id": 2, "cliente": 2, "funcionario": 1, "datafichaavaliacao": "2025-10-06", "peso": "90", "altura": "1,70", "descricao":"descrição" }
+      {"id": 1, "idcliente": 1, "idfuncionario": 2, "datafichaavaliacao": "2025-11-10", "peso": "65", "altura": "1,80", "descricao":"descrição" },
+      {"id": 2, "idcliente": 2, "idfuncionario": 1, "datafichaavaliacao": "2025-10-06", "peso": "90", "altura": "1,70", "descricao":"descrição" }
    ],
 
 
