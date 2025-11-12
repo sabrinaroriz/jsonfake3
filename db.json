@@ -6,20 +6,17 @@
 
    "fichasavaliacaofisica": [
       {"id": 1, "cliente": 1, "funcionario": 2, "datafichaavaliacao": "2025-11-10", "peso": "65", "altura": "1,80", "descricao":"descrição" },
-      {"id": 2, "cliente": 2, "funcionario": 1, "datafichaavaliacao": "2025-10-06", "peso": "90", "altura": "1,70", "descricao":"descrição" 
+      {"id": 2, "cliente": 2, "funcionario": 1, "datafichaavaliacao": "2025-10-06", "peso": "90", "altura": "1,70", "descricao":"descrição" }
    ],
 
 
     "formaspagamento":[
         {"id":1, "nome": "cartao", "descricao":"debito automatico"},
         {"id":2, "nome": "dinheiro", "descricao":"todo dia 5"}
-
     ],
 
     "exercicios":[
         {"id":1, "nome": "tríceps banco", "descricao":"descrição do exercicio"},
         {"id":2, "nome": "tríceps corda", "descricao":"descrição do exercicio"}
-
     ]
-
 }
