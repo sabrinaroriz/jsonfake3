@@ -11,12 +11,12 @@
 
 
     "formaspagamento":[
-        {"id":1, "nome": "cartao", "descricao":"debito automatico"},
-        {"id":2, "nome": "dinheiro", "descricao":"todo dia 5"}
+        {"id":1, "nome": "Cartão", "descricao":"debito automatico"},
+        {"id":2, "nome": "Dinheiro", "descricao":"todo dia 5"}
     ],
 
     "exercicios":[
-        {"id":1, "nome": "tríceps banco", "descricao":"descrição do exercicio"},
-        {"id":2, "nome": "tríceps corda", "descricao":"descrição do exercicio"}
+        {"id":1, "nome": "tríceps banco", "descricao":"descrição do exercício"},
+        {"id":2, "nome": "tríceps corda", "descricao":"descrição do exercício"}
     ]
 }
