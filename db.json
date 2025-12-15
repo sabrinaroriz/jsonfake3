@@ -12,7 +12,8 @@
 
     "formaspagamento":[
         {"id":1, "nome": "Cartão", "descricao":"debito automatico"},
-        {"id":2, "nome": "Dinheiro", "descricao":"todo dia 5"}
+        {"id":2, "nome": "Dinheiro", "descricao":"todo dia 5"},
+        {"id":3, "nome": "Pix", "descricao":"Pagamento imediato"}
     ],
 
     "exercicios":[
