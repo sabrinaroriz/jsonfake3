@@ -1,7 +1,8 @@
 {
     "ajustesfinanceiros": [
-        {"id":1, "nome":"ajuste1", "tipo": "Desconto", "unidade": "Porcentagem", "valor": "10", "descricao":"desconto só final de semana" },
-        {"id":2, "nome":"ajuste2", "tipo": "Acréscimo", "unidade": "Moeda", "valor": "15", "descricao":"multa por mal uso" }
+        {"id":1, "nome":"Desconto", "tipo": "Desconto", "unidade": "Porcentagem", "valor": "10", "descricao":"desconto só final de semana" },
+        {"id":2, "nome":"Multa", "tipo": "Acréscimo", "unidade": "Moeda", "valor": "15", "descricao":"multa por mal uso" },
+        {"id":2, "nome":"Aula avulsa", "tipo": "Acréscimo", "unidade": "Moeda", "valor": "15", "descricao":"aula experimental" }
     ],
 
    "fichasavaliacaofisica": [
